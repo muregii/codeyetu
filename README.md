@@ -65,7 +65,7 @@ In an Agile way, develop a robust web application that will serve as the CodeKen
 ### Frontend
 
 ### User Stories
- - As a user, I should be able to find an apply button, fill in my name, school, and program of interest, write my formal essay application, upload supporting documents and submit my application. Once approved, I should get a notification that will allow me to now access the payment page where I should be able to pay for the program after the submission.
+ - As a user, I should be able to find an apply button, fill in my name, school, and program of interest, phone number, How did you here about us,  start and submit my application then upload supporting documents. Once approved, I should get a notification that will allow me to now access the payment page where I should be able to pay for the program after the submission.
 
 ### Acceptance criteria
  - The UX has to be 👌
